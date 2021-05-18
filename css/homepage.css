@@ -1,0 +1,58 @@
+
+.creatornames{
+    text-align: center;
+    font-size: 35px;
+}
+
+p.sentence{
+    font-size: 17px;
+    color: white;
+}
+
+.imgicons{
+    width: 103px;
+}
+
+img#top-image{
+    float: right;
+    width: 30%;
+    margin-left: 100px;
+}
+
+@media screen and (max-width: 900px) 
+{
+    img#top-image{
+        float: none;
+        width: unset;
+        margin-bottom: 20px;
+        margin-top: -40px;
+    }
+}
+
+.font-x1 {
+    font-size: 15px;
+}
+
+.form-heading{
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.container h1{
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+
+@media screen and (max-width: 978px){
+    .container h1{
+        text-align: center;
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+}
+
+img.icons{
+    height: 20px;
+    color: white;
+}
+

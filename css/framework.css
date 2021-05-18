@@ -1,0 +1,77 @@
+.nospace{
+    margin:0; 
+    padding:0; 
+    list-style:none;
+}
+.bgded{
+    background-position:top center; 
+    background-repeat:no-repeat; 
+    background-size:cover;
+}    
+
+.btn{
+    display:inline-block; 
+    padding:8px 18px 10px; 
+    text-transform:uppercase; 
+    border:1px solid;
+}
+
+a{
+    outline:none; 
+    text-decoration:none;
+}
+
+/* Fonts*/
+
+body, select{
+    font-family:Verdana, Geneva, sans-serif;
+}
+h1, h2, h3, h4, h5, h6, .heading{
+    font-family:Georgia, "Times New Roman", Times, serif;
+}
+
+/* Generalise */
+
+h1, h2, h3, h4, h5, h6, .heading{
+    margin:0 0 20px 0; 
+    font-size:22px; 
+    line-height:normal; 
+    font-weight:normal;
+    text-transform:capitalize;
+
+}
+.heading.nospace{
+    margin-bottom:0;
+}
+
+.wrapper{
+    display:block; 
+    position:relative; 
+    width:100%; 
+    margin:0; 
+    padding:0; 
+    text-align:left; 
+    word-wrap:break-word;
+    background-color: cadetblue;
+}
+
+.hoc{
+    display:block; 
+    margin:0 auto;
+}
+
+.one_third{
+    display:inline-block; 
+    float:left; 
+    margin:0 0 0 4.21052%; 
+    list-style:none;
+    width:30.52631%;
+}
+
+.first{
+    margin-left:0; 
+    clear:left;
+}
+
+
+

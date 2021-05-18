@@ -1,0 +1,45 @@
+h3.text-center{
+  margin-top:50px;
+  font-size : 38px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#casesupdate tr:first-child{
+  font-weight : 600;
+  background-color: #c5edf7;
+  font-size : 130%;
+   }
+#casesupdate tr td:first-child{
+  font-weight : 600;
+  width: 20%;
+}
+.table{
+  width: unset;
+  width : 80%;
+  margin-left: auto;
+  margin-right : auto;
+  margin-top : 50px;
+}
+
+#casesupdate tr td:nth-child(3){
+  color : green;
+}
+
+.transfer{
+  text-align: center;
+  background-color: #b5e5eb;
+  margin-left: auto;
+  margin-right: auto;
+}
+.transfer a{
+  text-decoration: none;
+}
+
+#clrhistory{
+    float: right;
+    margin-top: 20px;
+    margin-right: 200px;
+    text-decoration: none;
+}
+#clrhistory a:hover{
+    text-decoration: none;
+}
