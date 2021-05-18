@@ -1,4 +1,4 @@
-This is a simple dynamic website which was part of Internship by Sparks Foundation.
+This is a simple dynamic website which was part of Internship by The Sparks Foundation.
 
 Link to hosted website : http://denapay.atwebpages.com/
 
